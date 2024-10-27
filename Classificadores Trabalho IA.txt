@@ -1,0 +1,11 @@
+Alunos: Alisson Oliveira Reis, 2021101289
+              Pedro Paulo Jabour, 2021101313
+              Irving Lui de Souza Caetano, 2022102307
+
+Questão 3: Na conclusão, cada classificador mostrou vantagens e desvantagens próprias. 
+O RandomForestClassifier se destacou pela boa acurácia e generalização, sendo mais
+ robusto e estável que o DecisionTree, mas em contrapartida, consome mais memória e é
+ menos interpretável. Já o DecisionTreeClassifier é o mais simples e rápido, fácil de interpretar 
+e ótimo para dados pequenos, mas propenso a overfitting e com menor capacidade de generalização. 
+O MLPClassifier foi o melhor para capturar padrões complexos, alcançando alta acurácia e F1-score, 
+porém com o maior tempo de treinamento e mais sensível ao ajuste de parâmetros.
